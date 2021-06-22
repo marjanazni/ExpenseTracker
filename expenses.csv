@@ -1,0 +1,34 @@
+Date,Item,Amount,Category
+2021-06-01 15:49:09,salary,2000,income
+2021-06-01 15:50:12,bonus,300,income
+2021-06-01 15:50:34,Toast,2.30,food expense
+2021-06-08 15:51:08,toast,2.30,food expense
+2021-06-15 15:51:30,toast,2.30,food expense
+2021-06-22 15:51:44,toast,2.30,food expense
+2021-06-22 15:52:01,toast,2.30,food expense
+2021-06-01 15:52:20,rent,850.00,rent & bills
+2021-06-01 15:52:20,bills,150.00,rent & bills
+2021-06-01 15:52:59,coca cola 6pack,11.00,drinks expense
+2021-06-15 15:53:47,coca cola 6pack,11.00,drinks expense
+2021-06-30 15:54:17,coca cola 6pack,11.00,drinks expense
+2021-06-02 15:54:31,juice 6pack,10.50,drinks expense
+2021-06-16 15:54:53,juice 6pack,10.50,drinks expense
+2021-06-30 15:55:13,juice 6pack,10.50,drinks expense
+2021-06-01 15:55:37,subway ticket,58.70,travel expense
+2021-06-04 15:56:30,schampoo & conditioner,6.80,personal care expense
+2021-06-17 15:57:31,schampoo & conditioner,6.80,personal care expense
+2021-06-13 15:58:01,eyeliner,6.90,personal care expense
+2021-06-14 15:58:58,mascara,9.70,personal care expense
+2021-06-02 15:59:54,vegetables,14.80,food expense
+2021-06-21 16:00:24,vegetables,10.80,food expense
+2021-06-13 16:00:40,Dolce Gusto,16.00,drinks expense
+2021-06-27 16:01:36,Dolce Gusto,16.00,drinks expense
+2021-06-21 16:03:00,hoover,80.00,other expense
+2021-06-21 16:04:09,Netflix,9.00,other expense
+2021-06-04 16:13:39,food delivery,16.00,food expense
+2021-06-12 16:14:15,food delivery,26.00,food expense
+2021-06-03 16:15:32,fresh basket,60.00,food expense
+2021-06-19 16:16:06,fresh basket,60.00,food expense
+2021-06-19 18:58:17,jeans,69.00,other expense
+2021-06-19 19:07:58,Red Bull,3.80,drinks expense
+2021-06-19 19:41:14,Evian 3x6pack,24.00,drinks expense
